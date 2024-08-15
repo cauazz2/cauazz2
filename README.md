@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, Eu sou caua.avlis13@gmail.com</h1>
+<h1 align="center">Olá 👋, Eu sou Cauã Silva</h1>
 <h3 align="center">Um desenvolvedor aprendiz, Brasileiro xD</h3>
 
 - 🔭 Atualmente estou trabalhando em **nada no momento**
 
-- 🌱 Atualmente estou aprendendo **Senai Suíço Brasileiro**
+- 🌱 Atualmente estou aprendendo **Desenvolvimento de Sistemas em Senai Suíço Brasileiro**
 
-- 💬 Pergunte-me sobre **TI**
+- 💬 Pergunte-me sobre **Tecnologia da Informação**
 
 - 📫 Como entrar em contato comigo **caua.valentino46@gmail.com**
 
